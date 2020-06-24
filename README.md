@@ -1,2 +1,13 @@
 # QiskitSummerJam-LocalSequenceAlignment
-An implementation of the algorithm described in "Quantum Pattern Recognition for Local Sequence Alignment" for the Qiskit 2020 Summer Jam
+
+Our goal is to implement the Quantum Pattern Recognition (QPR) algorithm described in the paper [Quantum Pattern Recognition for Local Sequence Alignment](https://ieeexplore.ieee.org/document/8269076) by Konstantinos Prousalis and Nikos Konofaos.
+
+## Dependencies
+
+**TODO**
+
+## Team Members
+
+[Spencer King](https://github.com/spencerking)
+
+Mingi Ryu
