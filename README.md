@@ -10,4 +10,4 @@ Our goal is to implement the Quantum Pattern Recognition (QPR) algorithm describ
 
 [Spencer King](https://github.com/spencerking)
 
-Mingi Ryu
+[Mingi Ryu](https://github.com/mingir2)
