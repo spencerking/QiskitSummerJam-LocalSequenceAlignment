@@ -13,7 +13,7 @@ Our goal is to implement the Quantum Pattern Recognition (QPR) algorithm describ
 
 ## Dependencies
 
-**TODO**
+Built with the most recent versions of Qiskit and numpy (as of June 30, 2020).
 
 ## Team Members
 
